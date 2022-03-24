@@ -1,0 +1,87 @@
+.contentPokers {
+  background-color: white;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 86vw;
+  padding: 10px 0px;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-shadow: 2px 2px 7px grey;
+          box-shadow: 2px 2px 7px grey;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.contentPokers div {
+  opacity: 0.7;
+  position: absolute;
+  z-index: 100;
+  width: 40px;
+  cursor: pointer;
+}
+
+.contentPokers div img {
+  width: 100%;
+}
+
+.contentPokers .prevButton {
+  left: 0;
+  -webkit-transform: scale(-1);
+          transform: scale(-1);
+}
+
+.contentPokers .nextButton {
+  right: 0;
+}
+
+.contentPokers li {
+  cursor: pointer;
+  list-style-type: none;
+  width: 160px;
+  height: 160px;
+  background-color: #e2e2e2;
+  margin: 2.5px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  color: #111;
+  border-radius: 10px;
+  -webkit-transform: scale(0.95);
+          transform: scale(0.95);
+  -webkit-transition: all ease 0.2s;
+  transition: all ease 0.2s;
+}
+
+.contentPokers li:hover {
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+
+.contentPokers li img {
+  position: absolute;
+  width: 65%;
+  margin-top: -25px;
+}
+
+.contentPokers li h3 {
+  position: absolute;
+  z-index: 99;
+  bottom: 10px;
+  color: #2c2c2c;
+}
+
+.contentPokers li h3::first-letter {
+  text-transform: uppercase;
+}
+/*# sourceMappingURL=ListaContent.css.map */
