@@ -2,20 +2,16 @@
 
 <h3> 💻 Sobre o projeto</h3>
 
-<p>Essa é um projeto feito com React, que usa dados da RESTful API PokéAPI (https://pokeapi.co/) para listar informações sobre os pokemons existentes.</p>
+<p>Essa é um projeto pessoal feito sozinho com o intuido de praticar os conhecimentos em ReactJS, SASS e consumo de APIs, utilizando a API  RESTful PokéAPI (https://pokeapi.co/) para listar informações sobre os pokemons existentes.</p>
+
 <p>📝 O sistema possui as funcionalidades de:</p>
  <li>Listar Pokemons</li>
  <li>Ver informações sobre</li>
  <br>
  
- <h2>🖼 Imagem da tela principal: </h2>
-<img width="80%" src="public/assets/images-for-readme/main-page.png">
+ <h2>🖼 Imagem da tela da aplicação funcionando: </h2>
+<img width="80%" src="public/assets/images/pageGIF.gif">
  
- <h2>🖼 Imagem da tela de busca: </h2>
-<img width="80%" src="public/assets/images-for-readme/pagina-search.png">
- 
- <h2>🖼 Imagem da tela do filme: </h2>
-<img width="80%" src="public/assets/images-for-readme/movie-page.png">
   
 
 <h2>🚀 Tecnologias utilizadas: </h2>
