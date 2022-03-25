@@ -34,7 +34,7 @@
 <br>
 <h2>👷 Como testar? </h2>
 <h3>Entre com o seguinte link: </h3>
-<a href="https://pokedex-api-virid.vercel.app/">https://pokedex-api-virid.vercel.app/</a>
+<a target="_blank" href="https://pokedex-api-virid.vercel.app/">https://pokedex-api-virid.vercel.app/</a>
 <h3>Ou</h3>
 <li> Clone o repositório com: git clone https://github.com/johnatanSO/pokedexAPI.git
 <li> Entre em uma IDE de sua preferência
@@ -45,5 +45,5 @@
  
 <div>
  <h2>🎓 Autores</h2>
- <h3>Feito com o 💜 by <a href="https://github.com/johnatanSO" target="_blank">Johnatan Santos</a></h3>
+ <h3>Feito com o 💜 by <a target="_blank" href="https://github.com/johnatanSO" target="_blank">Johnatan Santos</a></h3>
 </div>
