@@ -1,4 +1,4 @@
-<h1 align="center"> <img width="30px" src="https://www.pngmart.com/files/2/Pokeball-PNG-Image.png"/> POKEDEX </h1>
+<h1 align="center"> <img width="30px" src="https://www.pngmart.com/files/2/Pokeball-PNG-Image.png"/> POKEDÉX </h1>
 
 <h3> 💻 Sobre o projeto</h3>
 
@@ -9,8 +9,16 @@
  <li>Ver informações sobre</li>
  <br>
  
- <h2>🖼 Imagem da tela da aplicação funcionando: </h2>
+ <h2>🖼 GIF da tela da aplicação funcionando: </h2>
 <img width="80%" src="public/assets/images/pageGIF.gif">
+<br>
+
+<h2>🖼 Imagem da tela da aplicação: </h2>
+<img width="80%" src="public/assets/images/printPage.png">
+<br>
+
+<h2>🖼 Imagem da tela do Pokemon e seus atributos: </h2>
+<img width="80%" src="public/assets/images/printPokemon.png">
  
   
 
